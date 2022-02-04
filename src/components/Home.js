@@ -68,7 +68,7 @@ function loseWinner(){
 function pointNumber(){
     var sum = 0;
     for(i=0; i<16; ++i){
-        sum =+ winner[i];
+        sum += winner[i];
     }
     return sum;
 }
