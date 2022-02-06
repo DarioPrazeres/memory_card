@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/memory_card/static/css/main.b08c96fd.css",
+    "main.js": "/memory_card/static/js/main.0faba571.js",
+    "static/media/Charizard_AG_anime.png": "/memory_card/static/media/Charizard_AG_anime.9331f7231754b91be306.png",
+    "static/media/wobbuffet.png": "/memory_card/static/media/wobbuffet.2fd7a50266756093544c.png",
+    "static/media/blissey.png": "/memory_card/static/media/blissey.e7e403d10b8c27553f9a.png",
+    "static/media/rayquaza.jpg": "/memory_card/static/media/rayquaza.5172ea2acfd690a895ec.jpg",
+    "static/media/deoxys-attack.jpg": "/memory_card/static/media/deoxys-attack.5fac773d457647eea4c1.jpg",
+    "static/media/Suicune.jpg": "/memory_card/static/media/Suicune.8fe8121e65190919588e.jpg",
+    "static/media/garchomp.jpg": "/memory_card/static/media/garchomp.ba63505326f9d2424374.jpg",
+    "static/media/litten.jpg": "/memory_card/static/media/litten.c3f189d651b0f0c18cd5.jpg",
+    "static/media/mimikyu.jpg": "/memory_card/static/media/mimikyu.54e4d045d3e21896ccd1.jpg",
+    "static/media/Zygarde.jpg": "/memory_card/static/media/Zygarde.368e7d7774b8ef85647e.jpg",
+    "static/media/jigglypuff.jpg": "/memory_card/static/media/jigglypuff.c51bb98537a759ec1b6a.jpg",
+    "static/media/decidueye.jpg": "/memory_card/static/media/decidueye.20834f9dd0744d7020e0.jpg",
+    "static/media/greninja.jpg": "/memory_card/static/media/greninja.74cc6a82707e21e78c2b.jpg",
+    "static/media/pikachu.jpg": "/memory_card/static/media/pikachu.c94ad54620dab27d3510.jpg",
+    "static/media/Mewtwo.png": "/memory_card/static/media/Mewtwo.2ab3ee55924468ed489a.png",
+    "static/media/Gengar.png": "/memory_card/static/media/Gengar.f186f28e3292ee61a7b9.png",
+    "index.html": "/memory_card/index.html",
+    "main.b08c96fd.css.map": "/memory_card/static/css/main.b08c96fd.css.map",
+    "main.0faba571.js.map": "/memory_card/static/js/main.0faba571.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b08c96fd.css",
+    "static/js/main.0faba571.js"
+  ]
+}
